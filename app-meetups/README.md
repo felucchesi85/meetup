@@ -20,7 +20,7 @@ Proyecto publico alojado en este github :
 
 Se utilizo git de versionador de codigo.
 
-# Meetup Challenge -
+# Meetup -
 
 + Java
 + Spring boot.
@@ -136,6 +136,6 @@ Estructura armada
 
 + http://localhost:8181/swagger-ui.html
 
-heroku 
-cambios
+## Heroku Cloud Swagger URL
+https://meetup-spring-boto-heroku.herokuapp.com/swagger-ui.html
 
